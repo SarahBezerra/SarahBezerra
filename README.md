@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Sarah Bezerra 👋
 
 <div>
-  <p>
+  <p> 
   fndfkdddddddddddnfdk fkd kf fdddddddddddf dkf df kkkkkkkkkkkkkkkf dkf dkkkkkkkkkkkkkkkkkkkkkfd fk ddddddddddfkd fjdddddddddddfdk fkjd dj fkjd jkd fkj d
   </p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
@@ -18,7 +18,7 @@
  <hr/> 
 
 <div> 
-  <a href="https://instagram.com/sarahbzrra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/sarahbzrra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=""></a>
   <a href = "mailto:sarahbezerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-bezerra-0a8124213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
