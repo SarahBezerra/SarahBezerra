@@ -1,6 +1,9 @@
 ### Olá! Eu sou a Sarah Bezerra 👋
 
-<div>
+<div style="display: inline">
+    <p>
+      fndfkdddddddddddnfdk fkd kf fdddddddddddf dkf df kkkkkkkkkkkkkkkf dkf dkkkkkkkkkkkkkkkkkkkkkfd fk ddddddddddfkd fjdddddddddddfdk fkjd dj fkjd jkd fkj d  
+    </p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 
