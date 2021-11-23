@@ -1,14 +1,11 @@
 ### Olá! Eu sou a Sarah Bezerra 👋
 
 <div>
-    <p>
-      fndfkdddddddddddnfdk fkd kf fdddddddddddf dkf df kkkkkkkkkkkkkkkf dkf dkkkkkkkkkkkkkkkkkkkkkfd fk ddddddddddfkd fjdddddddddddfdk fkjd dj fkjd jkd fkj d  
-    </p>
-    <div style="display: flex">
+    <div style="display: flex">    
+      fndfkdddddddddddnfdk fkd kf fdddddddddddf dkf df kkkkkkkkkkkkkkkf dkf dkkkkkkkkkkkkkkkkkkkkkfd fk ddddddddddfkd fjdddddddddddfdk fkjd dj fkjd jkd fkj d
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
-        <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
     </div>
-    
+    <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
 <div style="display: inline_block"><br>
