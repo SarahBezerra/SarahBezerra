@@ -4,19 +4,17 @@
   <p>
     
   </p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=base16-eighties-dark
-Public"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="50px"/>
-  <img src="https://img.icons8.com/dusk/64/000000/html-5.png" width="50px"/>
-  <img src="https://img.icons8.com/dusk/64/000000/css3.png" width="50px"/>
-  <img src="https://img.icons8.com/bubbles/50/000000/react.png" width="50px"/>  
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/ultraviolet/80/000000/react--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="50px"/>
-  <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="50px"/>
-  <img src="https://img.icons8.com/dusk/64/000000/linux.png" width="50px"/>
-  
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
   
   <img align="right" alt="" height="140" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </div>
