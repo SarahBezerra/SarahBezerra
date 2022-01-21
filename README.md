@@ -12,7 +12,6 @@
 </div>
 
 ### Linguagens e Ferramentas 
-
 <div style="display: inline_block"><br>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50px"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50px"/>
