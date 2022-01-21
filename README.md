@@ -1,13 +1,11 @@
 ### Olá! Seja muito bem-vind@ ao meu perfil 👋
 
 <div>
-  <p>
     Me chamo Sarah, e sou uma desenvolvedora full-stack em formação! :rocket:
     - :chart_with_upwards_trend: Aperfeiçoando cada dia mais meus conhecimentos em front-end
     - :books: Atualmente estou iniciando no mundo do back-end
     - :pushpin: Afinidade com UX
     - :cherry_blossom: Amo viajar e estar em contato com a natureza
-  </p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
