@@ -4,7 +4,8 @@
   <p>
     
   </p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=base16-eighties-dark
+Public"/>
 </div>
 
 <div style="display: inline_block"><br>
