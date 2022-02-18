@@ -8,14 +8,15 @@
 
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
 
-
 <div style="display: inline_block"><br>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50px"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="50px"/>
   <img src="https://img.icons8.com/ultraviolet/80/000000/react--v1.png" width="50px"/>
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width=50px />
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="50px"/>
+  <a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" width="50px"/>
   
   <img align="right" alt="" height="140" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
