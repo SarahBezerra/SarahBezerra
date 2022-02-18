@@ -16,7 +16,6 @@
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="50px"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width=50px />
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="50px"/>
-  <a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" width="50px"/>
   
   <img align="right" alt="" height="140" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
