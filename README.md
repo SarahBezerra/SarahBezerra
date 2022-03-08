@@ -9,7 +9,9 @@
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"><br>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50px"/>
+  <div width=50px heigth=50px border-radius=50px background-color=#C971DA>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50px"/>
+  </div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50px"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="50px"/>
   <img src="https://img.icons8.com/ultraviolet/80/000000/react--v1.png" width="50px"/>
