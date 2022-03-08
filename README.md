@@ -9,7 +9,7 @@
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"><br>
-  <div width=50px heigth=50px border-radius=50px background-color=#C971DA>
+  <div width=50px height=50px border-radius=50px background-color=#C971DA>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50px"/>
   </div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50px"/>
