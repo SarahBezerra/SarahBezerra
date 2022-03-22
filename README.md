@@ -1,8 +1,7 @@
 ### Olá! Seja muito bem-vind@ ao meu perfil 👋
 
 ## Me chamo Sarah, e sou uma desenvolvedora full-stack em formação! :rocket:
-- :chart_with_upwards_trend: Aperfeiçoando cada dia mais meus conhecimentos em front-end
-- :books: Atualmente estou iniciando no mundo do back-end
+- :chart_with_upwards_trend: Aperfeiçoando cada dia mais meus conhecimentos em front-end e back-end
 - :pushpin: Afinidade com UX
 - :cherry_blossom: Amo viajar e estar em contato com a natureza
 
