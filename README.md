@@ -27,12 +27,5 @@
 </div>
 
 ## Entre em contato
-<div>
-  <img alt="Pessoa codando" height="62px" style="margin-right:20px; float:right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-  
-  <div style="display: flex; flex-direction: column">
-      <a href = "mailto:sarahbezerra@gmail.com"><img 
-    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/sarah-bezerra-0a8124213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <div>
-</div>
+<a href = "mailto:sarahbezerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sarah-bezerra-0a8124213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
