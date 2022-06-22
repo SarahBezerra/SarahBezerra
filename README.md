@@ -6,10 +6,10 @@
 - :cherry_blossom: Amo viajar e estar em contato com a natureza
 
 ## Listo aqui algumas das tecnologias/ferramentas que já utilizei
-<div style="display: flex;">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <img height="130em" style="margin-rigth: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBezerra&layout=compact&langs_count=7&theme=dracula"/>
 
-  <div style="display: inline_block; margin-left: 15px">
+  <div style="display: inline_block;">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50px"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50px"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" width="50px"/>
@@ -27,8 +27,8 @@
 </div>
 
 ## Entre em contato
-<div style="display: flex; flex-direction: row;">
-  <img alt="" height="140" style="margin-right:20px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<div>
+  <img alt="Pessoa codando" height="62px" style="margin-right:20px; float:right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
   
   <div style="display: flex; flex-direction: column">
       <a href = "mailto:sarahbezerra@gmail.com"><img 
