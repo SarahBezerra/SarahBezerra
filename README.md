@@ -18,10 +18,10 @@
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="50px"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" width=50px />
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width=50px />
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width=50px />
+    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width=35px />
     <img src="https://nx.dev/documentation/shared/jest-logo.png" width="40px"/>
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="50px"/>
-    <img src="https://img.icons8.com/color/2x/git.png" width="35px"/>    
+    <img src="https://img.icons8.com/color/2x/git.png" width="50px"/>    
     <img src="https://img.icons8.com/color/2x/figma.png" width="50px"/>
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png" width="50px"/>
   </div>
